@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkqarify_docs=globalThis.webpackChunkqarify_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/qy-docs/en/blog","blogTitle":"Blog","authorsListPath":"/qy-docs/en/blog/authors"}')}}]);

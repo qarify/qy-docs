@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkqarify_docs=globalThis.webpackChunkqarify_docs||[]).push([[3778],{6653:l=>{l.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/qy-docs/blog/tags/hello","description":"Hello tag description","count":1}]}')}}]);
