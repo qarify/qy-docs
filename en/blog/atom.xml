@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qarify.github.io/qy-docs/en/blog</id>
+    <title>QArify Blog</title>
+    <updated>2025-09-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qarify.github.io/qy-docs/en/blog"/>
+    <subtitle>QArify Blog</subtitle>
+    <icon>https://qarify.github.io/qy-docs/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to QArify]]></title>
+        <id>https://qarify.github.io/qy-docs/en/blog/welcome-post</id>
+        <link href="https://qarify.github.io/qy-docs/en/blog/welcome-post"/>
+        <updated>2025-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our test automation blog! 🚀]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to our test automation blog! 🚀</p>
+<!-- -->
+<p>Let us handle the repetitive testing, so you can focus on what matters most: building innovative products.
+Here, we'll share the latest trends and practical tips to empower your successful automation journey.</p>]]></content>
+        <author>
+            <name>Peter Kang</name>
+            <uri>https://linkedin.com/in/peterhskang</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+    </entry>
+</feed>

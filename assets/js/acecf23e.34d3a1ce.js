@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqarify_docs=self.webpackChunkqarify_docs||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/qy-docs/blog","blogTitle":"Blog","authorsListPath":"/qy-docs/blog/authors"}')}}]);

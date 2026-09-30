@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqarify_docs=self.webpackChunkqarify_docs||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to QArify","permalink":"/qy-docs/en/blog/welcome-post","unlisted":false,"date":"2025-09-12T00:00:00.000Z"}]}')}}]);

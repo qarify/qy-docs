@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqarify_docs=self.webpackChunkqarify_docs||[]).push([["8020"],{9105(e){e.exports=JSON.parse('{"metadata":{"permalink":"/qy-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
